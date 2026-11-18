@@ -20,3 +20,15 @@ console.log(booleanIsLoggedIn)
 
 //1 => true; 0 => false
 //"" => false ; "someString" => true
+
+//operations
+let value = 3;
+let negValue = -value;
+console.log(negValue);
+
+
+let str1 = "Hello"
+let str2 = " Nikita"
+
+let str3 = str1 + str2
+console.log(str3);
